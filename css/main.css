@@ -3,10 +3,6 @@ body {
 	background-color: black;
 }
 
-* {
-  outline: red 1px solid;
-}
-
 .main-container{
 
 	background-color: white;
